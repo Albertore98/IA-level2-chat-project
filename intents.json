@@ -1,0 +1,71 @@
+
+
+{
+  "intents": [
+    {
+      "tag": "Problemas_agua",
+      "patterns": [
+        "¿Como puedo solucionar el problema del agua en andalucia?",
+        "Hay algun consejo que puedas darme para mejorar la situacion de los problemas hidricos en andalucia ",
+        "Como ayudar al problema del agua en andalucia"
+      ],
+      "responses": [
+        "Desalinizacion: Implementar plantas desalinizadoras para convertir agua de mar en agua potable, especialmente en regiones con escasez de agua dulce.",
+        "Reutilización de aguas grises: Tratar y reutilizar aguas grises provenientes de lavabos, duchas y lavadoras para riego, limpieza o recarga de acuíferos.",
+        "Prevención de fugas: Invertir en la reparación y mantenimiento de infraestructuras para minimizar las pérdidas de agua por fugas.",
+        "Fortalecimiento de instituciones: Fortalecer las instituciones responsables de la gestión del agua para mejorar su eficiencia y transparencia.",
+        "Cooperación regional: Fomentar la cooperación entre países y regiones para compartir recursos hídricos transfronterizos de manera sostenible y equitativa.",
+        "Participación social: Involucrar a las comunidades locales en la toma de decisiones relacionadas con la gestión del agua para asegurar su participación activa y la sostenibilidad de las soluciones."
+      ]
+    },
+    {
+      "tag": "Aprender_sobre_IA",
+      "patterns": [
+        "¿Como funciona una IA?",
+        "Puedes enseñarme sobre IA",
+        "Explicame sobre IA"
+      ],
+      "responses": [
+        "La IA funciona a traves de algoritmos complejos que imitan la forma en que aprende y razona el ser humano.Estos algoritmos se entrenan con grandes cantidades de datos, lo que les permite identificar patrones" ,
+        "La IA utiliza algoritmos para procesar datos y tomar decisiones.Los algoritmos aprenden de los datos y mejoran con el tiempo. Existen diferentes tipos de IA, cada uno con sus propias capacidades.",
+        "Redes neuronales artificiales: Se inspiran en el funcionamiento del cerebro humano y son capaces de aprender relaciones complejas entre los datos.",
+        "Procesamiento del lenguaje natural: Permite a las máquinas entender y procesar el lenguaje humano.",
+        " La IA utiliza algoritmos para procesar datos y tomar decisiones.Los algoritmos aprenden de los datos y mejoran con el tiempo.Existen diferentes tipos de IA, cada uno con sus propias capacidades"
+
+      ]
+    },
+    {
+      "tag": "Consejos_Mental",
+      "patterns": [
+        "Estoy mal y triste, puedes ayudarme",
+        "Necesito ayuda,no me encuentro bien mentalmente",
+        "Me encuentro desanimado"
+      ],
+      "responses": [
+        "El primer paso consiste en aceptar que hay un problema, posteriormente, es aconsejable acudir a un profesional que pueda ayudarte",
+        "El ejercicio, mantener una dieta balanceada, y salir regularmente de casa son actividades que ayudan a mejorar el estado de salud mental",
+        "En casos extremos, hay un telefono gratuito al que acudir para recibir ayuda de parte de personas certificadas, llamado telefono de la esperanza, siendo gratuito y accesible, siendo este 717 003 717"
+       
+      ]
+    },
+
+    {
+      "tag": "Soluciones_futuro_natalidad",
+      "patterns": [
+        "Como puede solucionarse el problema de la natalidad en españa",
+        "dame instrucciones para ayudar a mejorar el problema de natalidad en españa",
+        "¿Como puedo mejorar el problema de la natalidad en españa?"
+      ],
+      "responses": [
+        
+        "Subvenciones y beneficios económicos: Brindar apoyo financiero a las familias con hijos a través de subvenciones, ayudas fiscales o permisos de maternidad y paternidad extendidos.",
+        "Flexibilidad laboral: Promover políticas de flexibilidad laboral, como horarios flexibles, trabajo remoto o jornadas reducidas, para que los padres puedan equilibrar mejor sus responsabilidades familiares y profesionales.",
+        "Factores económicos: Abordar las preocupaciones económicas que pueden desanimar a las personas de tener hijos, como el alto costo de la vivienda, la educación y la atención médica."
+       
+      ]
+    }
+    
+    
+    
+  ]
+}
